@@ -197,10 +197,6 @@ The interface is designed to be accessible and interpretable without technical b
 
 ## License
 
-This project is provided as a demonstration. See repository for licensing details.
+This project is provided as a demonstration. See the repository for licensing details.
 
-## Limitations
-- Deepfake detection is AI-based, not a specialized forensics tool — use as a first pass
-- News analysis reflects AI reasoning, not a verified fact database
-- VirusTotal free tier: 4 requests/minute
-- Gemini may occasionally hallucinate — always verify important findings manually
+*Made with ❤️ by Team DropOuts*
